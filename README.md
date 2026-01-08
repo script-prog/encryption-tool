@@ -1,2 +1,1 @@
-# Puzzle-Stenography
-You just have Zarchiver 
+You need Zarchiver to change the file extension to .zip and extract the files.
