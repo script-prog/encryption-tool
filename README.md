@@ -9,7 +9,7 @@ how to execute a file
 bash disguise.sh [FILE NAME]
 bash recover.sh [FILE NAME] [NEW NAME]
 --------------------------------------
-you must have vim-python
-how to install vim-python
-pkg install vim-python
+you must have vim python
+how to install vim python
+pkg install vim python
 -----------------------
